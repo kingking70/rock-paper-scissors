@@ -1,1 +1,1 @@
-# rock-paper-scissors
+# odin project 3: rock-paper-scissors
